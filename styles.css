@@ -32,7 +32,6 @@ img {
 
 .responsive-column {
     width: 49.99%;
-    border: thin solid red;
     padding: 2rem;
     float: left;
 }
