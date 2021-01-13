@@ -199,10 +199,14 @@ hr.hr {
         height: auto !important;
         display: block;
     }
-
+    
+    
     img.logo-bird {
         border-radius: 0 !important;
-        max-width: 30rem;
+        max-width: 15rem;
+       float: inline-start;
+
+        
     }
 
     .responsive-column {
