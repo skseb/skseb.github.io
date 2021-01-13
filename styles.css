@@ -208,6 +208,9 @@ hr.hr {
 
         
     }
+    h2.overskrift{
+        visibility: hidden;
+    }
 
     .responsive-column {
         width: 100%;
