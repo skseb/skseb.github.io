@@ -224,4 +224,12 @@ hr.hr {
     .content {
         margin-top: 0;
     }
+    .anchor {
+        position:relative;
+        visibility: hidden;
+    }
+    
+    #smitte {
+        top: -16rem;
+    }
 }
